@@ -1,0 +1,50 @@
+/* Colors and fonts */
+body {background: #eeeeee;
+	color: rgb(50, 50, 50);
+	font-family: Futura;
+	font-size: 17px;}
+	
+div {padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(50,50,93,.1)
+	width: 300ox;
+	background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 40px}
+
+#sous.div2 {background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;}
+
+#sous.div3 {background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;}
+
+h1, h2, h3 {font-family: Poppins;
+font-weight: bold;}
+
+h1 {color: rbg(100, 100, 100);
+	font-size: 32px;}
+
+h2 {color: rbg(100, 100, 100);
+	font-size: 24px;
+	font-weight: lighter;}
+
+a {text-decoration: none;
+	color: #798eb0;}
+
+a:hover {color: #303640;}
+#logo {width: 180px;}
+.img-circle {border-radius: 50%;}
+
+
+
+
+
+
